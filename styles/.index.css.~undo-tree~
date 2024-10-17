@@ -1,0 +1,6 @@
+(undo-tree-save-format-version . 1)
+"4994232dba611acef9430274a20b68d17c38fab0"
+[nil nil nil nil (25701 31660 333361 37000) 0 nil]
+([nil nil ((47 . 48) (#("1" 0 1 (fontified t part-side css)) . 47) (undo-tree-id2 . -1) (t 25701 31532 546688 923000)) nil (25701 31693 597586 942000) 0 nil])
+([nil current ((#("0" 0 1 (fontified t part-side css)) . 48) (undo-tree-id0 . -1) (undo-tree-id1 . -1)) nil (25701 31693 597583 642000) 0 nil])
+nil
